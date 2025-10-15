@@ -148,7 +148,7 @@ col1, col2, col3 = st.columns(3)
 
 col1.image("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Irissetosa1.jpg/640px-Irissetosa1.jpg",
            caption="Setosa", use_container_width=True)
-col2.image("https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg",
+col2.image("https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Iris_versicolor_4.jpg/640px-Iris_versicolor_4.jpg",
            caption="Versicolor", use_container_width=True)
-col3.image("https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg",
+col3.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iris_virginica_NRCS-4x3.jpg/640px-Iris_virginica_NRCS-4x3.jpg",
            caption="Virginica", use_container_width=True)
